@@ -4,7 +4,7 @@
 
 Launch the web app:
 
-[Streamlit App](https://share.streamlit.io/dataprofessor/excel-file-merge-app/main/app.py](https://excel-file-merge-app-ndxgptg9paybpigaqrthsu.streamlit.app/)
+[Streamlit App]:https://excel-file-merge-app-ndxgptg9paybpigaqrthsu.streamlit.app/
 
 # Reproducing this web app
 To recreate this web app on your own computer, do the following.
