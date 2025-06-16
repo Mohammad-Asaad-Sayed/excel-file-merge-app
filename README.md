@@ -1,11 +1,5 @@
 # excel-file-merge-app
 
-# Watch the tutorial video
-
-[How to build an app for combining the contents of multiple spreadsheet files | Streamlit #23](https://youtu.be/xt4hrtG4t3s)
-
-<a href="https://youtu.be/xt4hrtG4t3s"><img src="http://img.youtube.com/vi/xt4hrtG4t3s/0.jpg" alt="How to build an app for combining the contents of multiple spreadsheet files | Streamlit #23" title="How to build an app for combining the contents of multiple spreadsheet files | Streamlit #23" width="400" /></a>
-
 # Demo
 
 Launch the web app:
