@@ -23,7 +23,7 @@ conda activate excel
 Download requirements.txt file
 
 ```
-wget https://raw.githubusercontent.com/dataprofessor/excel-file-merge-app/main/requirements.txt
+wget https://github.com/Mohammad-Asaad-Sayed/excel-file-merge-app/blob/main/requirements.txt
 
 ```
 
