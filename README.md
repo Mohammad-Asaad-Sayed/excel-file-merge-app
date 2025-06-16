@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 ###  Download and unzip contents from GitHub repo
 
-Download and unzip contents from https://github.com/dataprofessor/excel-file-merge-app/archive/main.zip
+Download and unzip contents from https://github.com/Mohammad-Asaad-Sayed/excel-file-merge-app.git
 
 ###  Launch the app
 
